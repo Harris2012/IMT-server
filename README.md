@@ -17,7 +17,7 @@ node app.js
 │   └── utils                  // 工具库
 │   │   ├── formatDate.js      // 时间格式化
 │   │   └── passport.js        // 用户密码加密和验证工具
-├── db-daike                   // 数据库导出的 json 文件（没地方放就放这了）
+├── db                  // 数据库导出的 json 文件
 ├── routes                     // 路由目录
 │   └── api                    // 接口目录
 │   │   ├── course_router.js   // 相关接口
